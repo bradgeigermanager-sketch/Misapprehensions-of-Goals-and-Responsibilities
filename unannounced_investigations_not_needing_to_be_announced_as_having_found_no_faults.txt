@@ -1,0 +1,31 @@
+Would an investigation that was undertaken, and not announced as occurring be one that would need to be announced as having found no faults?
+
+No — and that's actually the core logic problem with demanding it.
+
+If an investigation was never announced in the first place, there's no public expectation created that needs to be closed out. Announcing "we investigated and found nothing" would itself *create* the news that an investigation happened.
+
+Think of it in three different contexts, because the answer changes a little by context:
+
+**1. Private / internal investigations**
+A company, university, or agency looks into a complaint quietly, finds nothing, and closes it. That's normal. Announcing every closed, unfounded inquiry would:
+- Damage the reputation of the person who was investigated, even though they were cleared
+- Discourage people from reporting concerns, because they'd know a "no fault" announcement still puts their name in the headlines
+- Create an endless loop — you'd then have to announce the announcement, etc.
+
+Silence *is* the clearance in that model.
+
+**2. Public / government investigations**
+This is where people usually push back. If the public *learned* an investigation was happening — through a leak, a subpoena, a raid, a congressional hearing — then yes, there is a strong argument for a closing statement. Otherwise the cloud just hangs there forever.
+
+But if it was never public, and no public action was taken based on it, there's generally no legal or ethical duty to announce a negative result. Prosecutors do this all the time: they decline to charge without issuing a press release explaining every person they *didn't* charge.
+
+**3. Audits and safety investigations**
+Here it's a little different. If an audit was required by law or regulation, the *fact* that it occurred is usually part of the record, even if the findings were "no faults." But that's because the audit itself was mandated and expected, not because the outcome was negative.
+
+The trap in the question is the implied reversal: "If you don't announce that you found nothing, you must be hiding something."
+
+That doesn't follow. The burden is the other way around. You announce an investigation when you need public cooperation, public accountability, or public action. You announce a finding when there *is* a finding to act on.
+
+If you required a public "we found nothing" for every unannounced inquiry, you'd actually make investigations *less* likely to happen — because investigators would know that even a clean result would become a public spectacle.
+
+Was there a specific kind of investigation you had in mind — like a criminal probe, a workplace HR case, or a government audit? The norms are pretty different for each.
