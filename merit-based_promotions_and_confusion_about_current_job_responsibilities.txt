@@ -1,0 +1,433 @@
+Merit-based can mean very different things depending on where you're applying it — but the core idea is the same:
+
+**Decisions should be based on demonstrated ability, qualifications, and performance, rather than on identity, connections, seniority, or other non-performance factors.**
+
+Here are the main contexts people usually mean:
+
+### 1. Merit-based hiring / promotion
+- Hiring or promoting based on skills, experience, test scores, work samples, and past performance
+- Often uses blind resumes, structured interviews, and standardized assessments to try to reduce bias
+- Debate: What counts as "merit"? A degree vs. 10 years of experience? Test scores vs. on-the-job results?
+
+### 2. Merit-based college admissions
+- Admission based on grades, test scores, essays, extracurricular achievement, etc.
+- Debate centers on whether standardized tests and GPA fairly measure merit, given differences in school quality, tutoring access, and family resources
+
+### 3. Merit-based immigration
+- Visa systems that prioritize education, job skills, language proficiency, age, and salary offers over family ties or country of origin
+- Examples: Canada's points system, Australia's points system, and various U.S. proposals
+
+### 4. Merit-based pay
+- Raises and bonuses tied to measurable output, goals met, or performance reviews, rather than tenure or across-the-board increases
+
+**Why people support it:** It's seen as fair, transparent, and efficient — it rewards effort and competence.
+
+**Why people criticize it:** Critics argue "merit" isn't neutral. The metrics used to measure it can favor people who already had advantages, and it can overlook things like potential, context, teamwork, or barriers someone overcame.
+
+Which one did you mean — hiring, admissions, immigration, pay, or something else? If you tell me the context, I can go deep on how it actually works, pros/cons, and real-world examples.
+
+Is pay interchangeable with title or job seniority?
+
+No — they're related, but they're not interchangeable. And treating them as if they are is where a lot of pay systems break down.
+
+Think of them as three different signals:
+
+### 1. Pay = What the market + company values that work at
+Pay is supposed to reflect:
+- The value of the role to the business
+- Scarcity of the skill
+- Individual performance and impact
+- Location / market rate
+
+### 2. Title = What the organization calls the role
+Title is supposed to reflect:
+- Scope of responsibility
+- Level in the org chart
+- External credibility
+
+But titles are cheap to give and highly inconsistent. A "Senior Manager" at a 20-person startup might manage no one. A "Senior Manager" at Amazon might manage 200 people and a $50M budget.
+
+### 3. Seniority = How long you've been there
+Seniority reflects:
+- Tenure
+- Institutional knowledge
+- Loyalty / retention
+
+It does *not* automatically reflect current skill, impact, or market value.
+
+### Where they get confused
+
+**They often move together — but not always, and not for the same reasons:**
+
+- **High title, low pay:** Common in nonprofits, government, academia, and startups that give impressive titles instead of cash. Also common when someone is promoted into a role but the company hasn't adjusted their salary band yet.
+- **High seniority, low pay:** The "loyalty penalty." Someone who stays 10 years often makes *less* than a new hire doing the same job, because new hires are priced at today's market rate while internal raises are capped at 3-5% per year.
+- **High pay, low title / low seniority:** Common in tech, sales, and skilled trades. A top-performing individual contributor or a new hire with a hot skill (AI, cybersecurity, specialized welding, etc.) can out-earn their manager and out-earn someone with 15 years at the company.
+- **High title, high seniority, low impact:** The classic "promoted to their level of incompetence" problem — someone keeps getting promoted for tenure until they're in a role they aren't good at.
+
+### In a merit-based system, which one should matter?
+
+If you're truly merit-based, **pay should track impact and market value of contribution, not just title or time served.**
+
+That means:
+- Title should follow responsibility, not be used as a substitute for a raise
+- Seniority should be rewarded for the *value* of experience (mentoring, institutional knowledge, reliability), not just for showing up for X years
+- Pay should be able to go up *without* a title change — e.g., a senior individual contributor making more than a first-line manager
+
+**The test:** If you removed titles and tenure from the spreadsheet and only looked at what each person actually delivered in the last 12 months and what it would cost to replace them, would the pay order still make sense? If not, pay isn't tracking merit — it's tracking labels and longevity.
+
+Are you asking about this for your own job — like whether a promotion should automatically mean a raise, or whether someone with more seniority should automatically make more?
+
+How about promotion because of good ideas - if they don't apply because circumstances have changed so they logic doesn't apply because there are different facts to act related to, are those still good ideas that didn't go away (they just don't situationally apply)?
+
+Yes — this is a really important distinction, and most workplaces get it wrong.
+
+An idea can be **good** and **not applicable right now** at the same time. Those are two different judgments.
+
+### 1. Good idea vs. Right idea for *this* situation
+
+Think of it like a tool:
+
+- A hammer is a good tool.
+- A hammer is a terrible tool for tightening a screw.
+
+The hammer didn't get worse. The situation changed.
+
+Same with ideas:
+
+**Idea quality** = Is the logic sound? Does it solve a real problem? Would it work *if* the facts it assumed were true?
+
+**Situational fit** = Do those facts still hold? Do we still have the budget, team, timeline, market, customer, technology, legal constraints it depended on?
+
+When circumstances change, you usually aren't disproving the idea. You're disproving the *premise* it rested on.
+
+Example:
+> In 2021: "Let's build a fully remote support team to cut office costs" = great idea, because hiring was remote-friendly, customers accepted it, and office rent was high.
+>
+> In 2026: Same company now needs in-person support for a new product that requires hands-on demos, and customers are complaining about remote support.
+>
+> The original idea wasn't stupid. The facts it was built on — what customers needed, what the product required — changed.
+
+### 2. So should someone get promoted for ideas that didn't get used?
+
+This is where merit-based promotion gets tricky. There are 3 different things you could be rewarding:
+
+**a) Idea generation**
+Can this person consistently produce clear, original, workable ideas? That's a real skill. Even if 7 out of 10 don't get used, the 3 that do might be worth millions.
+
+**b) Judgment / timing**
+Can this person tell *which* idea fits *this* moment, and when to kill their own idea when the facts change? This is rarer — and more valuable for leadership — than just having ideas.
+
+**c) Execution**
+Can they adapt the idea when facts change, instead of clinging to it?
+
+A lot of companies promote for (a) alone, then wonder why the person fails as a manager. Managers need (b) and (c) more.
+
+### 3. A useful way to judge it
+
+Ask these 3 questions about the "unused" idea:
+
+1. **Was it sound at the time?** If you judge it with the facts available *then*, not with hindsight, was it reasonable?
+2. **Did the person recognize when it stopped applying?** Did they say "this no longer fits, here's what we should do instead" — or did they keep pushing it?
+3. **Is the core insight still salvageable?** Often the *specific* plan dies, but the *principle* lives on. Example: "We should automate X" might be wrong this quarter because of a vendor change, but the insight that "X is wasting 20 hours/week" is still true and can be solved another way.
+
+If the answer to 1 and 3 is yes, and 2 is yes, that's actually *strong* evidence for promotion. It shows flexible thinking, not just idea-having.
+
+If the person insists the idea is still good *despite* the facts changing, that's not merit — that's attachment.
+
+### Bottom line
+
+Good ideas don't expire just because they don't apply. They go into a kind of inventory.
+
+Bad promotion systems reward: "Had a good idea once"
+Good promotion systems reward: "Had good ideas, knew when they applied, knew when they didn't, and knew what to do next when they didn't"
+
+Is this about a specific situation you're thinking through — like someone at work who keeps bringing up an old idea that doesn't fit anymore, and you're trying to figure out if they still deserve credit for it?
+
+How about getting promoted because of a good idea, and then getting demoted because it situationally didn't apply? Would that make sense, or was the promotion made based upon the idea (that was found to not be situationally applicable, and still, actually, good, as related to the promotion)?
+
+That would almost never make sense — and if it happened, it would tell you the promotion was made for the wrong reason in the first place.
+
+Here's why:
+
+### The promotion was (or should have been) for the *person*, not the *idea*
+
+A good promotion isn't: "This idea worked, so you get a new title."
+
+It should be: "You demonstrated a capability — judgment, creativity, problem-solving, leadership — that we believe you can use *again* on future problems."
+
+If you promote for the idea itself, you're treating the person like a lottery ticket. If you promote for the capability behind the idea, one idea failing to fit a new situation doesn't erase the capability.
+
+Demoting someone because *circumstances changed* is like:
+> Promoting a firefighter for putting out a fire well, then demoting them because it rained and there was no fire to put out that week.
+
+The skill didn't disappear. The situation did.
+
+### When would a demotion *actually* make sense?
+
+Only in these very narrow cases:
+
+**1. The promotion was explicitly conditional**
+"We're promoting you to lead this project *because* of this idea. If the project is cancelled, the role goes away."
+That's not really a demotion for failure — that's the role ending. It should have been clear upfront.
+
+**2. The idea was never actually good**
+It only *looked* good because the person hid bad facts, exaggerated results, or didn't do the homework. When the real facts came out, it wasn't "circumstances changed" — it was "we were misled." That's a different issue: judgment / integrity.
+
+**3. The person can't adapt**
+They were promoted for Idea A. Idea A no longer applies. Instead of generating Idea B, or pivoting, they keep pushing Idea A, blame the circumstances, and block the team from moving on.
+In that case, you're not demoting them for the idea failing. You're demoting them for *failing to demonstrate the ongoing capability* the promotion was supposed to be about: adaptability.
+
+Notice the difference: In #3, it's not the idea's fault. It's the response to the idea no longer fitting.
+
+### The trap companies fall into
+
+They confuse three different things:
+
+- **The idea:** Good, but situationally expired
+- **The outcome:** Didn't happen because the situation changed
+- **The person:** Still has the same thinking ability
+
+If you punish the person for a bad outcome that was caused by a situational change outside their control, you teach everyone else a terrible lesson:
+
+> "Don't propose bold ideas. If the world shifts, you'll be punished for it."
+
+And then you get a company where no one proposes anything.
+
+### How a merit-based system *should* handle it
+
+Instead of promote -> demote, it should be:
+
+1. **Promote for demonstrated capability**, not for a single idea
+2. **Evaluate on how they handle the change:** Did they spot early that the facts changed? Did they propose a pivot? Did they help the team let go cleanly?
+3. **If the role is no longer needed**, eliminate the *role*, don't demote the *person* as punishment. Move them to where their capability is useful again.
+
+**Short version:** If the idea was genuinely good when it was proposed, and the facts changed later, demoting the person is punishing them for something they didn't control. It means the promotion was based on the outcome of one idea, not on the person's actual merit.
+
+Were you thinking of a case where someone actually *was* demoted like this, or are you trying to work out what a fair rule would be before it happens?
+
+What about coming up with an idea, and then getting promoted to be in charge of it - would that be different?
+
+Yes — that *is* different, and it's where this gets really messy in real companies.
+
+Promoting someone **to be in charge of their own idea** is not the same as promoting someone **because** they had a good idea.
+
+It's a different job, with a different test.
+
+### 1. Having an idea vs. Running an idea
+
+These are two completely different skill sets:
+
+**Idea person:**
+- Sees a problem others missed
+- Imagines a solution
+- Can explain it clearly enough to get buy-in
+
+**Owner / manager of that idea:**
+- Builds a plan, budget, timeline
+- Hires, delegates, handles conflict
+- Says no, kills parts of the idea that don't work
+- Manages stakeholders who don't care about the idea
+- Stays steady when circumstances change and the idea has to pivot
+
+Lots of people are brilliant at #1 and terrible at #2. And that's not a flaw — it's just a different job.
+
+The classic failure looks like this:
+> Person has a great idea -> Company says "You invented it, you should run it!" -> Person is now a manager, buried in meetings, budgets, and personnel issues -> They have no time to have more good ideas -> The idea stalls because it's not being managed well, and the company loses its best idea person too.
+
+You lose twice.
+
+### 2. So should the inventor run it?
+
+Sometimes yes. Sometimes no. It depends on which of these is true:
+
+**Yes, let them lead it if:**
+- They *want* to manage, not just invent
+- They've shown they can adapt the idea when facts change
+- The idea is still in the "vision" stage where the inventor's judgment matters most
+- They are willing to be judged on execution, not just on the original concept
+
+**No, don't automatically make them lead it if:**
+- They only wanted credit for the idea, not the daily grind of running it
+- They are too attached to the original version to kill it or change it
+- They have no interest in managing people, budgets, or trade-offs
+- The idea needs a different kind of leader now — e.g., it needs an operator, not a visionary
+
+A good company separates these two roles:
+- **Originator / Advisor:** Keeps the vision, consults, gets credit and compensation for the idea
+- **Owner / Operator:** Actually runs it day-to-day, gets promoted / judged on results
+
+You can reward the inventor *without* making them the boss.
+
+### 3. What if they *are* promoted to run it, and then it doesn't apply anymore?
+
+This is where your earlier question comes back, but with a twist.
+
+If they were promoted **to run that specific idea**, and the idea no longer applies because circumstances changed, you have three fair options — and demotion as punishment isn't one of them:
+
+**Option A: The role ends**
+The project is cancelled because the facts changed. The role goes away. The person goes back to their prior role, or moves to a new project. That's not a demotion. That's a project ending.
+
+**Option B: The role pivots**
+The person is now judged on: Can you pivot this project? Can you salvage the good parts? Can you lead the team through the change? If yes, they keep the role. If no, they might not be right for *that* leadership role anymore — but that's about current performance in the new situation, not about the original idea being bad.
+
+**Option C: The person was never the right operator**
+They were great at inventing, but they can't run things. In that case, moving them back to an individual contributor / idea role isn't a punishment either — it's putting them back where they're strongest, ideally with pay/credit protected.
+
+The unfair version is:
+> "Your idea didn't work out because the market changed, so we're taking your title away to punish you."
+
+The fair version is:
+> "The project this role was built for no longer exists, so we're ending the role. Your work on the idea was still good, and we want to find you a role that fits your strengths."
+
+### The key question to ask
+
+Before promoting an inventor to run their idea, a company should ask:
+
+**Are we promoting them because they are the best person to *run* this, or just because it's *their* idea?**
+
+If it's just because it's theirs, that's ownership by default, not merit. And that's how you get a good idea person stuck in a bad management job — and a good idea dying because it didn't get the operator it needed.
+
+Is this the situation you're working through — someone came up with something, got put in charge of it, and now the situation has shifted and you're wondering what should happen to them?
+
+In a general sense, is it possible to pitch an idea to one's boss that doesn't fit the situation, and is found out not to after approval has already been granted, and activities have commenced?
+
+Yes — not only is it possible, it happens all the time. In fact, it's the normal way most ideas fail.
+
+It's not usually because someone lied or was stupid. It's because approval happens based on one set of facts, and reality happens based on a different set.
+
+### How it happens
+
+**1. The pitch was based on assumptions, not facts**
+Almost every pitch sounds like this:
+> "If we do X, then Y will happen, because customers want Z and we have A, B, and C to pull it off."
+
+Approval is granted for the *if*. Then work starts, and you discover:
+- Customers don't actually want Z, they want Q
+- You don't actually have B, you thought you did
+- A competitor just changed the market
+- A regulation, vendor, budget, or timeline changed
+
+The idea was approved when the assumptions looked true. It stops fitting when the assumptions turn out to be false.
+
+**2. The situation changed *between* approval and execution**
+This is incredibly common:
+- Boss approves on Monday
+- On Wednesday, a key client leaves, a budget gets cut, a supplier raises prices, a new law passes
+- By Friday, the idea that made perfect sense on Monday no longer fits
+
+No one did anything wrong. The world moved.
+
+**3. The boss approved the *story*, not the *situation***
+A good pitch is persuasive. It can make an idea sound like it fits even when it doesn't, because:
+- The pitch focused on the upside and skipped the constraints
+- The boss didn't ask "What would have to be true for this to work?"
+- No one checked with the people who would actually have to do the work, or the customers who would have to buy it
+
+So you get approval, activities start, and then the people doing the work discover the fit problem that the pitch hid.
+
+**4. The fit problem only shows up *after* you start**
+Some ideas you literally cannot know if they fit until you try them:
+- "Let's launch this new service" — you don't know if customers will pay until you launch
+- "Let's reorganize the team this way" — you don't know if it works until people try to work in it
+- "Let's use this new process" — you don't know about the bottlenecks until you run it
+
+Starting is often the test.
+
+### Why companies keep going anyway, even after they know
+
+This is the dangerous part. Once approval is granted and activities have commenced, three forces kick in:
+
+**a) Sunk cost**
+"We've already spent $50k and 3 weeks on this, we can't stop now." Even though stopping would save $200k more.
+
+**b) Ego / commitment**
+The boss approved it. The inventor championed it. Admitting it doesn't fit feels like admitting a mistake. So everyone pretends it still fits.
+
+**c) No off-ramp**
+Most approvals don't include: "We will stop if we learn X, Y, or Z." So there's no agreed-upon signal for when to kill it. People just keep going because no one wants to be the one to pull the plug.
+
+### What a good system does instead
+
+A merit-based system doesn't punish the person for pitching an idea that turned out not to fit. It rewards them for *how fast they notice* and *how cleanly they stop or pivot*.
+
+That looks like:
+
+1. **Pitch with conditions:** "We approve this *if* these 3 assumptions are true. We'll check in 2 weeks."
+2. **Small bets first:** Start with a pilot, not a full rollout, so you learn fit cheaply.
+3. **Kill criteria upfront:** "If we don't see X by Y date, we pause."
+4. **No blame for bad fit:** Finding out early that it doesn't fit *is* the win. It saved time and money.
+
+**Short answer:** Yes, absolutely. Pitch -> Approval -> Start -> Discover it doesn't fit is not an exception. It's the normal lifecycle of most new ideas. The mistake isn't pitching an idea that doesn't fit. The mistake is having no way to discover that quickly, and no permission to stop once you do.
+
+Are you thinking of a specific pitch like this — where it got approved, work started, and then it became clear it didn't fit the situation?
+
+Would it be confusing if someone had pitched an idea, and were then known to be working on pursuing it, after approval to start work on it, and then, outside of those others' knowledge, were involved in a largely opposite approach due to contradictions in the working presumptions being found, due to further investigation after commencement towards the projects or pursuit?
+
+Yes — that would be extremely confusing. And not just confusing, it would look suspicious even if the person had the best intentions.
+
+Because from the outside, it looks like two completely different stories are happening at the same time:
+
+**Story everyone else sees:** "She pitched Idea A, got approval, and is working on Idea A."
+
+**Story that's actually happening:** "She investigated, found the presumptions behind Idea A were wrong, and is quietly working on Opposite Idea B."
+
+If no one knows about the switch, they will fill in the blanks — and usually not generously.
+
+### Why it feels confusing / dishonest
+
+**1. Approval was for A, not B**
+When a boss approves an idea, they're approving resources, time, and reputation for *that* idea. If you're secretly spending those resources on the opposite approach, people will reasonably ask: "Did we approve this?"
+
+Even if B is better, it wasn't what was approved.
+
+**2. People can't tell if it's a pivot or a betrayal**
+From the outside, these look identical:
+- "I discovered new facts, so I pivoted to the opposite approach to save the project"
+- "I never really believed in Idea A, I was just using the approval to do what I wanted to do all along"
+- "I got confused / lost track / am working on two things at once"
+
+Without communication, people default to the most cynical explanation.
+
+**3. It creates double work and contradictory signals**
+While you're secretly working on B, your team might still be working on A because that's what they were told. Customers, partners, or other departments might be getting mixed messages. One part of the company is building for A, another for B, and no one knows which one is real.
+
+That isn't just confusing. It's wasteful and it erodes trust.
+
+### The key difference: Private discovery vs. Private pivot
+
+**Private discovery is normal and good.**
+You start work on A, you investigate further, you find contradictions. That *should* happen. That's how you learn.
+
+**Private pivot is the problem.**
+You discover the contradictions, you decide on your own to pursue the opposite approach, and you don't tell anyone. That's where it breaks.
+
+The discovery belongs to you. The decision to change direction belongs to the people who approved the original direction, because they own the resources and the risk.
+
+### What would make it *not* confusing
+
+The same situation, handled transparently, would be completely understandable:
+
+> "When we started on A, we assumed X, Y, and Z. After 2 weeks of investigation, we found X is false and Y is actually the opposite. So A no longer fits. Here's the evidence. I'm recommending we pause A and pursue B instead, because B fits the *actual* facts. Can I get approval to switch?"
+
+Now it's not confusing. It's exactly what a good employee should do:
+1. Found the contradiction
+2. Brought the new facts forward
+3. Proposed a new direction based on those facts
+4. Asked for re-approval before spending more resources
+
+People might disagree with B. They might still want to try A anyway. But they won't be confused about what you're doing or why.
+
+### Why people do the secret pivot anyway
+
+Usually it's not malice. It's one of these:
+
+- **Fear of looking wrong:** "If I tell my boss Idea A doesn't work, he'll think I was stupid for pitching it."
+- **Fear of losing approval:** "If I ask to switch, they'll just kill the whole thing."
+- **Want to prove it first:** "Let me quietly build B, then when it's working they'll see I was right."
+- **No clear process:** No one ever told them how to report "the assumptions were wrong," so they just kept working.
+
+All understandable. All still create confusion and distrust when discovered.
+
+**Short version:** Yes, it would be confusing — because everyone else thinks you're still pursuing A, while you're actually pursuing the opposite. The confusion isn't caused by finding the contradiction. That's good work. The confusion is caused by not bringing the new facts back to the people who approved A and getting a new, shared agreement to pursue B.
+
+Were you picturing a case where someone did this quietly and it was later discovered, and people couldn't tell if they were being clever or deceptive?
